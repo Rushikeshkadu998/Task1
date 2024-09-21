@@ -42,3 +42,5 @@ const string = "aabcdcdded";
 console.log(string.toLowerCase())
 console.log(string.toUpperCase())
 console.log(string.split('').reverse().join(''))
+
+const add = (a,b)=> a+b;
